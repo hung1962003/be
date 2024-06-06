@@ -1,1 +1,1 @@
-web usinng java and serlet
+web usinng java and servlet
